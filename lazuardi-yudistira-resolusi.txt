@@ -1,0 +1,7 @@
+Halo Pak, salam kenal nama saya Muh Lazuardi Yudistira dari Jogja.
+Saya mengikuti channel bapak dari awal saya belajar HTML hingga Javascript.
+
+Resolusi saya di tahun 2021 ini :
+1.Ingin memahami web programming khususnya HTML, CSS dan JS lebih mendalam lagi dari sebelumnya.
+2.Mampu membuat project pembuatan front end web secara mandiri.
+3.Ingin bekerja menjadi Front End Developer di suatu perusahaan.
